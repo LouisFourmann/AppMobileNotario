@@ -1,0 +1,6 @@
+django
+django-cors-headers
+djangorestframework
+markdown
+django-filter
+django-rest-knox 
